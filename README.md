@@ -20,4 +20,5 @@ OPIS
 
 ### 📊 Stats
 
-![Wuczek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wuczek&show_icons=true&theme=gruvbox)
+[![Wuczek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wuczek)](https://github.com/anuraghazra/github-readme-stats)
+
